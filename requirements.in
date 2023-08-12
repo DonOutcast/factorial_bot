@@ -1,0 +1,6 @@
+--pre
+aiogram==3.0.0b7
+python-dotenv
+jinja2
+
+
